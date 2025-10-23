@@ -2,7 +2,7 @@
  * string_parser.c
  *
  *  Created on: Nov 8, 2020
- *      Author: gguan
+ *  
  */
 
 
